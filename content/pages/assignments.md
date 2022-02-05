@@ -14,10 +14,63 @@ Student Term Papers
 
 Student work is courtesy of the students named and used with permission.
 
-| TITLES | AUTHORS |
-| --- | --- |
-| Enhancement of HIF-1-Mediated Tumor Radio sensitization via Vascular Normalization ([PDF]({{< baseurl >}}/resources/samir_awasthi)) | Samir Awasthi |
-| Telomerase and Gene Expression ([PDF]({{< baseurl >}}/resources/jana_mooster)) | Jana Mooster |
-| Elucidating the Mechanisms involved in Tumstatin's Antiangiogenic Activities ([PDF]({{< baseurl >}}/resources/jeff_hsu)) | Jeff Hsu |
-| Understanding the Failure of Combination Treatment with the Angiogenesis Inhibitor PTK787 and Chemotherapy in Phase III Trials ([PDF]({{< baseurl >}}/resources/michael_schmidt)) | Michael Schmidt |
-| Why Anti-Angiogenic Treatments Fail as Mono-Therapies ([PDF]({{< baseurl >}}/resources/zach_morris)) | Zach Morris
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+AUTHORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enhancement of HIF-1-Mediated Tumor Radio sensitization via Vascular Normalization ([PDF]({{< baseurl >}}/resources/samir_awasthi))
+{{< tdclose >}}
+{{< tdopen >}}
+Samir Awasthi
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Telomerase and Gene Expression ([PDF]({{< baseurl >}}/resources/jana_mooster))
+{{< tdclose >}}
+{{< tdopen >}}
+Jana Mooster
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Elucidating the Mechanisms involved in Tumstatin's Antiangiogenic Activities ([PDF]({{< baseurl >}}/resources/jeff_hsu))
+{{< tdclose >}}
+{{< tdopen >}}
+Jeff Hsu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Understanding the Failure of Combination Treatment with the Angiogenesis Inhibitor PTK787 and Chemotherapy in Phase III Trials ([PDF]({{< baseurl >}}/resources/michael_schmidt))
+{{< tdclose >}}
+{{< tdopen >}}
+Michael Schmidt
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Why Anti-Angiogenic Treatments Fail as Mono-Therapies ([PDF]({{< baseurl >}}/resources/zach_morris))
+{{< tdclose >}}
+{{< tdopen >}}
+Zach Morris
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
