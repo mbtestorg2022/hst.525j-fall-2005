@@ -7,6 +7,7 @@ description: 'This resource contains images for comparison of endothelial turnov
   tumor growth and Plasminogen.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/93bc26ed0a88b11cd865ceafc63a4732_06_damore.pdf
 file_type: application/pdf
+parent_uid: 34fd02b1-8fff-5413-1d5a-eabfc8e08f36
 resourcetype: Document
 title: 06_damore.pdf
 uid: 93bc26ed-0a88-b11c-d865-ceafc63a4732

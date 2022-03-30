@@ -4,6 +4,7 @@ description: This resource contains information on topics tumor angiogenesis, an
   microcirculation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/4b09215620b0def5cf60b522ec037a68_01a_jain.pdf
 file_type: application/pdf
+parent_uid: 34fd02b1-8fff-5413-1d5a-eabfc8e08f36
 resourcetype: Document
 title: 01a_jain.pdf
 uid: 4b092156-20b0-def5-cf60-b522ec037a68
